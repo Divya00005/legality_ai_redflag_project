@@ -1,0 +1,9 @@
+openai
+pinecone-client
+pandas
+python-dotenv
+tqdm
+jupyter
+notebook
+scikit-learn
+datasets
