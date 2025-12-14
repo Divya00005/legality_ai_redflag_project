@@ -7,3 +7,8 @@ jupyter
 notebook
 scikit-learn
 datasets
+chromadb
+sentence-transformers
+pypdf
+fpdf
+streamlit
